@@ -30,7 +30,7 @@ resultado no formato de um MVP Canvas. COm a ideação realizada, e a partir das
 
 Foi feito um exercício de imaginação para a realização da Lean Inception, buscando identificar os diferentes pontos de vista dos stakeholders. Imaginou-se que nessa Lean Inception estiveram presentes toda a equipe Scrum, além das duas fundadores (apenas no Kick-off e no Showcase) e de uma facilitadora experiente que consuziria o workshop. Deste modo, as atividades da lean inception possuem um rascunho, que pode ser observado abaixo das versões "ajustadas" das atividades. Ao final, como última atividade, foi elaborado o MVP Canvas do Ê-vizinho.
 
-Link para o board do Miro: [Board *Lean Inception* do Ê-vizinho](https://miro.com/app/board/uXjVKXY7r74=/?share_link_id=648817840918)
+Link para o board do Miro: [Board *Lean Inception* do Ê-vizinho](https://miro.com/app/board/uXjVKXY7r74=/?share_link_id=648817840918). O link também está disponível no arquivo **canvas-url.txt** disponível na raíz deste repositório.
 
 ### 3.2. Backlog Inicial do Produto
 
