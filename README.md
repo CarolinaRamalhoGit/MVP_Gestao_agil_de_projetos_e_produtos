@@ -55,4 +55,4 @@ Os protótipos de baixa fidelidade desenvolvidos para a primeira *Sprint* estão
 
 ### 3.5. Vídeo do Projeto
 
-Um vídeo resumindo o desenvolvimento e os resultados desse projeto está disponível através do link (https://youtu.be/md-blE90nMo), com o arquivo correspondente também hospedado na raiz deste repositório.
+Um vídeo resumindo o desenvolvimento e os resultados desse projeto está disponível através do link (https://youtu.be/md-blE90nMo).
